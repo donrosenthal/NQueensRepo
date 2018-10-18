@@ -1,0 +1,1 @@
+{"Queens": 35000, "Reps": 3, "RepairList": [18957, 105001, 19118], "Loops": 1}{"Queens": 40000, "Reps": 3, "RepairList": [24223, 24002, 120001], "Loops": 1}{"Queens": 45000, "Reps": 3, "RepairList": [29909, 29080, 135001], "Loops": 1}{"Queens": 50000, "Reps": 3, "RepairList": [38926, 150001, 150001], "Loops": 2}
